@@ -29,7 +29,10 @@ Use "Boxed" Tag on the rem you want to box.
 ![](https://github.com/mzguntalan/rem-tex/blob/main/imgs/common/boxes.png) 
 
 ## Fancy Headers
-You can use h1 through h3 tags. h1 headers also look really neat when collapsed.
+You can use h1 through h3 tags. 
 
-![](https://github.com/mzguntalan/rem-tex/blob/main/imgs/common/headings.png) 
+![](https://github.com/mzguntalan/rem-tex/blob/main/imgs/common/headings.png)
+
+h1 headers also look really neat when collapsed.
+
 ![](https://github.com/mzguntalan/rem-tex/blob/main/imgs/common/collapsed.png) 
