@@ -1,0 +1,144 @@
+:root {
+	--rem-text-accent-color: #3265cc;	
+}
+
+:root:has(.dark-mode) {
+	--rem-text-accent-color: #99c2f7;	
+}
+
+.rem-text {
+	font-family: "CMU Serif";
+	font-size: 1em;
+}
+
+.TreeNode  {
+	border-color: #f0f0f0 !important;	
+}
+
+[data-rem-container-tags~=latex-style] .rem-text {
+	font-family: "CMU Serif";
+}
+
+[data-rem-container-tags~=sans-serif-style] .rem-text {
+	font-family: "CMU Sans Serif";
+}
+
+.document-title {
+	font-family: "CMU Serif";
+	font-size: 1.5em;
+	border-style: solid;
+	border-color: #a2a9b1;
+	border-width: 0px 0px 1px 0px;
+	margin-bottom: 8px;
+}
+
+.rem-header--1 {
+	font-weight: normal;
+	font-size: 1.2em;
+	border-style: solid;
+	border-color: #a2a9b1;
+	border-width: 0px 0px 1px 0px;
+	
+}
+
+.rem-header--2 {
+	font-family: "CMU Serif";
+	font-size: 1em;
+	font-weight: bold;
+}
+
+.rem-header--3 {
+	font-family: "CMU Sans Serif";
+	font-size: 1em;
+	font-weight: bold;
+}
+
+.rn-rem-reference {
+	color: var(--rem-text-accent-color);
+}  
+
+.rn-checkbox--checked {
+	color: red;
+	background-color: var(--rem-text-accent-color);
+}  
+
+.rn-checkbox--unchecked {
+	color: var(--rem-text-accent-color);
+} 
+
+.katex { font-size: 1em; }
+
+/* LaTeX Style */
+
+[data-rem-container-tags~=latex-style] div.TreeNode {
+	margin-left: 0em !important;
+	padding-left: 0em !important;
+}
+
+[data-rem-container-tags~=latex-style] div.TreeNode  {
+	border-color: transparent !important;	
+}
+	
+[data-rem-container-tags~=latex-style] .rn-rem-bullet {
+	visibility: hidden;
+}
+
+[data-rem-container-tags~=latex-style] .rich-text-editor > .EditorContainer > span:first-child {
+	padding-left: 0.5em;
+}
+
+[data-rem-container-tags~=latex-style] .rem-header--1 .rich-text-editor > .EditorContainer > span:first-child {
+	padding-left: 0em;
+	
+}
+
+[data-rem-container-tags~=latex-style] .rem-header--2 .rich-text-editor > .EditorContainer > span:first-child {
+	padding-left: 0em;
+}
+
+[data-rem-container-tags~=latex-style] .rem-header--3 .rich-text-editor > .EditorContainer > span:first-child {
+	padding-left: 0em;
+}
+
+
+[data-rem-container-tags~=latex-style] .rem:hover > div > .rem-[data-rem-container-tags~=latex-style] button__container > .rem-bullet__container > span > .rn-rem-bullet {
+	visibility: visible;
+}
+
+[data-rem-container-tags~=latex-style] .rn-rem-bullet--hidden-children {
+	visibility: visible;
+	color: #777;
+}
+
+[data-rem-container-tags~=latex-style] [data-rem-container-tags~=itemize] > div.tree-node--children > div.rn-editor-container > div > span.rem > div > .rem-button__container > .rem-bullet__container > span > .rn-rem-bullet {
+	
+	visibility: visible;
+}
+
+/* Design Tags */
+
+[data-rem-container-tags~=latex-style] [data-rem-container-tags~=itemize] > div.tree-node--children  {
+	margin-left: 2.5em;
+} 
+
+[data-rem-container-tags~=latex-style] .rn-editor-container [data-rem-container-tags~=itemize] > div.TreeNode {
+ 	margin-left: 1em !important;
+ 	padding-left: 1.5em !important;
+ }
+ 
+  
+[data-rem-container-tags~=boxed] {
+	border-radius: 15px;
+	border-color: #999;
+	border-width: 1px;
+	border-style: solid;
+	padding: 1px;
+	margin-bottom: 0.2em;
+	margin-top: 0.2em;
+}
+
+[data-rem-container-tags~=boxed] [data-rem-container-tags~=boxed] {
+	margin-left: 1em;
+	margin-right: 1em;
+}
+

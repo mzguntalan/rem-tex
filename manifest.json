@@ -1,0 +1,22 @@
+{
+  "manifestVersion": 1,
+  "id": "Rem-TeX",
+  "name": "RemTeX",
+  "author": "mzguntalan",
+  "repoUrl": "https://github.com/mzguntalan/rem-tex",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "theme": [],
+  "enableOnMobile": true,
+  "description": "RemTeX brings the classic style and look of LaTeX documents to your memorable rems.",
+  "requestNative": false,
+  "requiredScopes": [
+    {
+      "type": "All",
+      "level": "Read"
+    }
+  ]
+}
