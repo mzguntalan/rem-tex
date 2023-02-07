@@ -35,4 +35,4 @@ You can use h1 through h3 tags.
 
 h1 headers also look really neat when collapsed.
 
-![](https://github.com/mzguntalan/rem-tex/blob/main/imgs/common/collapsed.png) 
+![](https://github.com/mzguntalan/rem-tex/blob/main/imgs/common/collapsed_headings.png) 
