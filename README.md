@@ -13,13 +13,11 @@ This plugin requires that you have Computer Modern Font installed. Otherwise, it
 ### Light Mode
 Default                    | With LaTeX Style Tag  
 :-------------------------:|:-------------------------:
-![](https://github.com/mzguntalan/ease-of-sight/blob/main/imgs/light/hover_on_description.png)  |  ![](https://github.com/mzguntalan/rem-tex/blob/main/imgs/light/default.png)
-![](https://github.com/mzguntalan/ease-of-sight/blob/main/imgs/light/hover_on_fox.png)  |  ![](https://github.com/mzguntalan/rem-tex/blob/main/imgs/light/latex_style.png)
+![](https://github.com/mzguntalan/rem-tex/blob/main/imgs/light/default.png)  |  ![](https://github.com/mzguntalan/rem-tex/blob/main/imgs/light/latex_style.png)
 
 ### Dark Mode
 Default                    | With LaTeX Style Tag  
 :-------------------------:|:-------------------------:
-![](https://github.com/mzguntalan/ease-of-sight/blob/main/imgs/light/hover_on_description.png)  |  ![](https://github.com/mzguntalan/rem-tex/blob/main/imgs/dark/default.png)
-![](https://github.com/mzguntalan/ease-of-sight/blob/main/imgs/light/hover_on_fox.png)  |  ![](https://github.com/mzguntalan/rem-tex/blob/main/imgs/dark/latex_style.png)
+![](https://github.com/mzguntalan/rem-tex/blob/main/imgs/dark/default.png)  |  ![](https://github.com/mzguntalan/rem-tex/blob/main/imgs/dark/latex_style.png)
 
 
