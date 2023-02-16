@@ -16,23 +16,23 @@ Use the "LaTeX Style" Tag on the root/title rem.
 ### Light Mode
 Default                    | With LaTeX Style Tag  
 :-------------------------:|:-------------------------:
-![](https://github.com/mzguntalan/rem-tex/blob/main/imgs/light/default.png)  |  ![](https://github.com/mzguntalan/rem-tex/blob/main/imgs/light/latex_style.png)
+![](https://raw.githubusercontent.com/mzguntalan/rem-tex/main/imgs/light/default.png)  |  ![](https://raw.githubusercontent.com/mzguntalan/rem-tex/main/imgs/light/latex_style.png)
 
 ### Dark Mode
 Default                    | With LaTeX Style Tag  
 :-------------------------:|:-------------------------:
-![](https://github.com/mzguntalan/rem-tex/blob/main/imgs/dark/default.png)  |  ![](https://github.com/mzguntalan/rem-tex/blob/main/imgs/dark/latex_style.png)
+![](https://raw.githubusercontent.com/mzguntalan/rem-tex/main/imgs/dark/default.png)  |  ![](https://raw.githubusercontent.com/mzguntalan/rem-tex/main/imgs/dark/latex_style.png)
 
 ## Boxed Tags
 Use "Boxed" Tag on the rem you want to box.
 
-![](https://github.com/mzguntalan/rem-tex/blob/main/imgs/common/boxes.png) 
+![](https://raw.githubusercontent.com/mzguntalan/rem-tex/main/imgs/common/boxes.png) 
 
 ## Fancy Headers
 You can use h1 through h3 tags. 
 
-![](https://github.com/mzguntalan/rem-tex/blob/main/imgs/common/headings.png)
+![](https://raw.githubusercontent.com/mzguntalan/rem-tex/main/imgs/common/headings.png)
 
 h1 headers also look really neat when collapsed.
 
-![](https://github.com/mzguntalan/rem-tex/blob/main/imgs/common/collapsed_headings.png) 
+![](https://raw.githubusercontent.com/mzguntalan/rem-tex/main/imgs/common/collapsed_headings.png) 
